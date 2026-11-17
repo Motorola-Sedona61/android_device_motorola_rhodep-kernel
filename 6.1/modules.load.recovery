@@ -23,7 +23,6 @@ qrtr.ko
 qcom_glink.ko
 qrtr-smd.ko
 qcom-cpufreq-hw.ko
-sched-walt.ko
 qcom_glink_smem.ko
 rproc_qcom_common.ko
 qcom_glink_spss.ko
