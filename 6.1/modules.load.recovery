@@ -74,6 +74,7 @@ hwkm_v1.ko
 crypto-qti.ko
 ufshcd-crypto-qti.ko
 ufs_qcom.ko
+sg.ko
 spmi-pmic-arb.ko
 nvmem_qcom-spmi-sdam.ko
 nvmem_qfprom.ko
